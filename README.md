@@ -1,73 +1,23 @@
-# Welcome to your Lovable project
+# 🚀 Administra+
 
-## Project info
+O **Administra+** é uma aplicação completa para gerenciamento administrativo e financeiro. Focado na facilidade de uso, o sistema permite o controle centralizado de receitas, despesas e assinaturas de alunos em uma interface moderna e responsiva.
 
-**URL**: https://lovable.dev/projects/1846de1f-c2c3-4c2c-ac09-930b3459d97f
+> ⚡ **Desenvolvimento:** Este projeto foi concebido e estruturado utilizando a plataforma **Lovable**, integrando IA generativa para acelerar a construção da UI e a integração com o banco de dados.
 
-## How can I edit this code?
+## 🛠️ Tecnologias
+* **Frontend:** React.js & TypeScript
+* **Estilização:** Tailwind CSS & shadcn/ui
+* **Backend:** Supabase (Auth & PostgreSQL)
+* **Build:** Vite
+* **Ícones:** Lucide React
 
-There are several ways of editing your application.
+## ✨ Funcionalidades Principais
+* 📊 **Dashboard Financeiro:** Visão geral de receitas e despesas em tempo real.
+* 👥 **Gestão de Alunos:** Cadastro e controle de assinaturas e mensalidades.
+* 💰 **Fluxo de Caixa:** Registro detalhado com histórico completo de transações.
+* 🔐 **Segurança:** Autenticação robusta e proteção de rotas via Supabase.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/1846de1f-c2c3-4c2c-ac09-930b3459d97f) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1846de1f-c2c3-4c2c-ac09-930b3459d97f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## ⚙️ Instalação Local
+1. **Clone o repositório:**
+   ```bash
+   git clone (https://github.com/joaouzeda-dev/administra_mais)
